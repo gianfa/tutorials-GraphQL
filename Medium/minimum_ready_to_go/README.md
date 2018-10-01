@@ -21,4 +21,5 @@ These are the main steps:
       $ node com_client
       # null '{"data":{"createMessage":{"id":"c67419f8a98d9b88d0d7"}}}'
    ```
-CAVEAT: you now should have *TWO* open Terminals: one in which is running the GraphQL server while the second runs the client.
+CAVEAT: you now should have *TWO* open Terminals: one in which is running the GraphQL server while the second runs the client.  
+![two terminal are needed](https://github.com/gianfa/tutorials-GraphQL/blob/master/images_for_tutorials/medium_starter.png)
