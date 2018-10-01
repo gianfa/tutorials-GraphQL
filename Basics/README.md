@@ -11,7 +11,7 @@ It covers the following points:
   *  Types (Tut.4, Tut.5)
   *  Writing operations (Tut.6)
 
-## Requisites:
+## Requirements:
  *  [NodeJS](https://nodejs.org/en/download/) installed in your machine
  *  [express](https://www.npmjs.com/package/express) module
  *  [gragphql, express-graphql](https://graphql.org/graphql-js/running-an-express-graphql-server/) modules
