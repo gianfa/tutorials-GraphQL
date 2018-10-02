@@ -64,7 +64,7 @@ target: Variable Inputs to GraphQL
 target: Define Object Types for the output of the query
 <br>source: [Object Types](http://graphql.github.io/graphql-js/object-types/)
 New Object Types can be defined in order to handle the output and treat the functions as methods of it.
-<br>To do so we have
+<br>To do so, we have
  * to define new Object types, say NoT{ out1: type1, out2:type2, .. }
  *  related solver *class* (not function anymore).
 
